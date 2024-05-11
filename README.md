@@ -1,12 +1,20 @@
+Weather App using API
+
+
 This Weather App is a simple web application developed using HTML, CSS, and JavaScript. It utilizes an API to fetch real-time weather data based on user input. Below, you'll find instructions on how to set up and use this application effectively.
 
 Getting Started:
+
 
 Obtain API Key:
 
 To use this Weather App, you need to obtain an API key from a weather service provider such as OpenWeatherMap, AccuWeather, or WeatherStack.
 Visit the website of your chosen weather service provider and sign up for an account to obtain your API key. Usually, the free tier provides sufficient access for development and testing purposes.
+
+
 Project Setup:
+
+
 
 Download or clone this repository to your local machine.
 API Key Integration:
@@ -41,11 +49,17 @@ This project does not rely on any external libraries or frameworks, making it li
 Compatibility:
 
 The Weather App is designed to be compatible with modern web browsers including Google Chrome, Mozilla Firefox, Safari, and Microsoft Edge.
+
+
+
 Contributing:
 
 Contributions to this project are welcome. If you have any suggestions, improvements, or bug fixes, feel free to create a pull request or open an issue on GitHub.
 
 Credits:
+
+
+
 
 The Weather App is created by Radha jaiswal.
 Weather data is provided by openWeathermap.org.
